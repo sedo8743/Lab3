@@ -1,3 +1,3 @@
 Chris Audette
-Sean Donohoe
+Partner: Sean Donohoe
 Lab 3: Git Practice
